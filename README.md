@@ -2,7 +2,7 @@
 ---
 https://github.com/impress/impress.js
 
-```
+```sh
 npm run build
 npm run test
 npm run lint
